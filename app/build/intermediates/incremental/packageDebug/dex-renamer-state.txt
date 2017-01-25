@@ -1,0 +1,7 @@
+#Wed Jan 25 10:06:59 CET 2017
+base.0=/Users/tbrams/AndroidStudio/android-vision/FragmentBasics1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_9aa58f86bc0047a4ed20e1036c106caf80f5a220
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/tbrams/AndroidStudio/android-vision/FragmentBasics1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_14c1fdb9c815c6e529cfa7253e1684201e8c4978/classes.dex
+base.1=/Users/tbrams/AndroidStudio/android-vision/FragmentBasics1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_14c1fdb9c815c6e529cfa7253e1684201e8c4978
+file.0=/Users/tbrams/AndroidStudio/android-vision/FragmentBasics1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_9aa58f86bc0047a4ed20e1036c106caf80f5a220/classes.dex
